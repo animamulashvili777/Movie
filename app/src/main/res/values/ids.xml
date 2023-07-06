@@ -18,4 +18,5 @@
     <item name="textViewTitle" type="id" />
     <item name="textViewErrorMessage" type="id" />
     <item name="editTextConfirmPassword" type="id" />
+    <item name="fragmentContainer" type="id" />
 </resources>

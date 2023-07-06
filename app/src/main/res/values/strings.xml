@@ -10,5 +10,7 @@
     <string name="text_label_3" />
     <string name="text_label_2" />
     <string name="carousel_strategy_multi_browse">multi_browse</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
 
 </resources>
