@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="buttonSignUp" type="id" />
+    <item name="editTextEmail" type="id" />
+    <item name="editTextPassword" type="id" />
+    <item name="editTextSearch" type="id" />
+    <item name="buttonFilter" type="id" />
+    <item name="recyclerViewMovies" type="id" />
+    <item name="action_search" type="id" />
+    <item name="text_movie_title" type="id" />
+    <item name="text_movie_genre" type="id" />
+    <item name="buttonSignIn" type="id" />
+    <item name="errorTextView" type="id" />
+    <item name="signUpButton" type="id" />
+    <item name="confirmPasswordEditText" type="id" />
+    <item name="passwordEditText" type="id" />
+    <item name="textViewGenre" type="id" />
+    <item name="textViewTitle" type="id" />
+    <item name="textViewErrorMessage" type="id" />
+    <item name="editTextConfirmPassword" type="id" />
+</resources>

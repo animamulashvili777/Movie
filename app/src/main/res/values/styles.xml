@@ -1,0 +1,18 @@
+<resources>
+    <!-- App theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme attributes -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorAccent">@color/accentColor</item>
+        <!-- Other theme attributes -->
+    </style>
+
+    <!-- Custom styles -->
+    <style name="CustomTextStyle">
+        <!-- Define your custom text style attributes -->
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
+</resources>

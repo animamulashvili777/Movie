@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="email_hint" />
+    <string name="sign_in" />
+    <string name="register_text" />
+    <string name="password_hint" />
+    <string name="app_logo_description"/>
+    <string name="text_label_1">Your Text Label 1</string>
+    <string name="text_label_4" />
+    <string name="text_label_3" />
+    <string name="text_label_2" />
+    <string name="carousel_strategy_multi_browse">multi_browse</string>
+
+</resources>

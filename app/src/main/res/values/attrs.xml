@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="CustomRecyclerView">
+        <attr name="carousel_strategy" format="string" />
+    </declare-styleable>
+</resources>
